@@ -6,7 +6,7 @@ Missing your project or organisation? Issue a PR!
 ## Democracy
 
 - [Open Raadsinformatie](https://github.com/openstate/open-raadsinformatie/issues): Back-end for aggregating governmental meeting data.  
-- [Open Besluitvorming](https://github.com/ontola/openbesluitvorming/) ([demo](openbesluitvorming.nl/)): Webapp for searching and browsing governmental meeting data (using Open Raadsinformatie).
+- [Open Besluitvorming](https://github.com/ontola/openbesluitvorming/) ([demo](https://openbesluitvorming.nl/)): Webapp for searching and browsing governmental meeting data (using Open Raadsinformatie).
 - [OpenStad](https://github.com/Amsterdam/openstad-monolith): E-democracy platform for civic engagement.
 
 ## Covid-19
