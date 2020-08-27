@@ -12,8 +12,8 @@ Missing your project or organisation? Issue a PR!
 ## Covid-19
 
 - [Corona Dashboard](https://github.com/minvws/nl-covid19-data-dashboard) ([demo](https://coronadashboard.rijksoverheid.nl/))
-- [Covid-19-backend](https://github.com/minvws/nl-covid19-notification-app-backend)
-- [Covid-19-android](https://github.com/minvws/nl-covid19-notification-app-android)
+- [Coronamelder notification service backend](https://github.com/minvws/nl-covid19-notification-app-backend)
+- [Coronamelder notification service android](https://github.com/minvws/nl-covid19-notification-app-android)
 
 ## Government Organizations
 
