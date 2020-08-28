@@ -9,6 +9,8 @@ Missing your project or organisation? Issue a PR!
 - [Open Besluitvorming](https://github.com/ontola/openbesluitvorming/) ([demo](https://openbesluitvorming.nl/)): Webapp for searching and browsing governmental meeting data (using Open Raadsinformatie).
 - [OpenStad](https://github.com/Amsterdam/openstad-monolith): E-democracy platform for civic engagement.
 
+Also heck out [civictech.guide](https://civictech.guide/) and [ogptoolbox](https://ogptoolbox.org/) for more democracy tooling.
+
 ## Covid-19
 
 - [Corona Dashboard](https://github.com/minvws/nl-covid19-data-dashboard) ([demo](https://coronadashboard.rijksoverheid.nl/))
