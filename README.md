@@ -3,6 +3,8 @@
 Curated list of open source repositories developed or financed by Dutch governments.
 Missing your project or organisation? Issue a PR!
 
+**Edit**: [Here's a more complete list](https://github.com/J535D165/PublicSectorNL/) - my repo will not be maintained!
+
 ## Democracy
 
 - [Open Raadsinformatie](https://github.com/openstate/open-raadsinformatie/issues): Back-end for aggregating governmental meeting data.  
